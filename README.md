@@ -43,10 +43,10 @@ artifactId=commons-logging
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>bdp</groupId>
-	<artifactId>kmap-impalar</artifactId>
+	<groupId>test</groupId>
+	<artifactId>impalar-boot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>kmapimplar</name>
+	<name>impalar</name>
 	<description>test</description>
 
 	<properties>
@@ -375,7 +375,7 @@ artifactId=slf4j-log4j12 -->
 				<configuration>
 					<serverId>test</serverId>
 					<fromFile>${project.build.directory}/${project.artifactId}-${project.version}-jar-with-dependencies.jar</fromFile>
-					<url>scp://treefragrance.com/home/hosting_users/psy2239</url>
+					<url>scp://host/home/user/test</url>
 				</configuration>
 				<executions>
 					<execution>
