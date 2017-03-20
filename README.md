@@ -1,7 +1,7 @@
 # Cloudera-Impala-Jdbc41-2.5.36-Maven-Sample
 Clodera Impala Jdbc Maven Sample based impala_jdbc_2.5.36.2056.zip 
 
-Cloudera Impala Jdbc do not support Maven Repository. Today is 2017-03-17.
+Cloudera Impala Jdbc do not support Maven Repository at 2017-03-17.
 
 This Example is very simular https://github.com/onefoursix/Cloudera-Impala-JDBC-Example .
 The differene is Configuaration Way For Maven and Less Typing.
