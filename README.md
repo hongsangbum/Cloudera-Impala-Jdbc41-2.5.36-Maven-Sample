@@ -31,6 +31,7 @@ zookeeper-3.4.6.jar
 3. find out maven packaged jars above  
 
 jar file | maven groupid | maven artifactId | version
+------------ | ------------- | ------------- | -------------
 commons-codec-1.3.jar | | |
 commons-logging-1.1.1.jar | | |
 hive_metastore.jar | | |
